@@ -1,4 +1,4 @@
-$timescale 1 ps $end
+$timescale 1 ns $end
 $scope module top $end
 $var wire 1 ! clk $end
 $var reg 1 " in $end
